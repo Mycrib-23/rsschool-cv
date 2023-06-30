@@ -11,15 +11,17 @@ I live in Barnaul. My hobby is programming. I learn html, css, javascript, pytho
 * css
 * javascript
 * python
-##Code example:
+
+## Code example:
+
 ```
 console.log('Hello, World);
 ```
 
-##Expirience
+## Expirience
 
-##Education
+## Education
 
-##Languages
+## Languages
 * Russian nativa
 * English - A2

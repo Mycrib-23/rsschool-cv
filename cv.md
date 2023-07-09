@@ -23,5 +23,5 @@ console.log('Hello, World);
 ## Education
 
 ## Languages
-* Russian nativa
+* Russian native
 * English - A2
